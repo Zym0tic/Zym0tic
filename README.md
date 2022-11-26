@@ -2,6 +2,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Luke+Rozon" alt="Typing SVG" /></a>
  <p>A Web Developer located in Philadelphia, PA</p>
   </div>
+  
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lucas-rozon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tm01" height="30" width="40" /></a>
+</p>
 
 <!--
 **Zym0tic/Zym0tic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
