@@ -2,6 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Luke+Rozon" alt="Typing SVG" /></a>
  <p>A Web Developer located in Philadelphia, PA</p>
   </div>
+  <hr>
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
