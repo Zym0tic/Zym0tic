@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+Luke+Rozon)](https://git.io/typing-svg)
+ <div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Luke+Rozon" alt="Typing SVG" /></a>
+  </div>
 
 <!--
 **Zym0tic/Zym0tic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
