@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
- <img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/nodejs.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fusefulangle.com%2Fpost%2F97%2Fnodejs-resize-image&psig=AOvVaw1A99ZP_TyWQG05zhejNuZn&ust=1669573791282000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiLuJm9zPsCFQAAAAAdAAAAABAE)" alt="Node" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fusefulangle.com%2Fpost%2F97%2Fnodejs-resize-image&psig=AOvVaw1A99ZP_TyWQG05zhejNuZn&ust=1669573791282000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiLuJm9zPsCFQAAAAAdAAAAABAE" alt="Node" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
