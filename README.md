@@ -1,6 +1,6 @@
  <div id="greeting" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ED6F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Luke+Rozon" alt="Typing SVG" /></a>
- <h1>A Web Developer located in Philadelphia, PA</h1>
+ <h3>A Web Developer located in Philadelphia, PA</h3>
   </div>
 
 <!--
