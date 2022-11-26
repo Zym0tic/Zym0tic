@@ -4,6 +4,11 @@
   </div>
   <hr>
   
+  - 🔭 I’m currently working on building e commerce and portfolio applications for clients
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on fun projects. Feel free to hit me up!
+- ⚡ Fun fact: I am a Musicain and Animal lover!
+  
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-rozon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tm01" height="30" width="40" /></a>
