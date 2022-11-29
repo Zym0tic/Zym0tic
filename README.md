@@ -5,7 +5,7 @@
   <hr>
   
   - 🔭 I’m currently working on building e commerce and portfolio applications for clients
-- 🌱 I’m currently learning React and Tailwind CSS
+- 🌱 I’m currently learning React, Shopify, and Tailwind CSS
 - 👯 I’m looking to collaborate on fun projects. Feel free to hit me up!
 - ⚡ Fun fact: I am a Musicain and Animal lover!
   
