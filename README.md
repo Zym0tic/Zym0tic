@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-rozon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tm01" height="30" width="40" />
- <a href="mailto:lukerozon@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw1cUF-Yle4tD8JIAZU64q-I&ust=1673941301681000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNifwbnLy_wCFQAAAAAdAAAAABAE)" alt="tm01" height="30" width="40" />
+ <a href="mailto:lukerozon@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw1cUF-Yle4tD8JIAZU64q-I&ust=1673941301681000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNifwbnLy_wCFQAAAAAdAAAAABAE" alt="tm01" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
