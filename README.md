@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-rozon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tm01" height="30" width="40" />
  <a href="mailto:lukerozon@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="tm01" height="30" width="40" />
+   <a href="https://leetcode.com/Zym0tic/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="tm01" height="30" width="40" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
